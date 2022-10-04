@@ -1,0 +1,15 @@
+C:\Users\xp059\Desktop\HomeWork\MyWork\bin\Debug\net6.0\MyWork.exe
+C:\Users\xp059\Desktop\HomeWork\MyWork\bin\Debug\net6.0\MyWork.deps.json
+C:\Users\xp059\Desktop\HomeWork\MyWork\bin\Debug\net6.0\MyWork.runtimeconfig.json
+C:\Users\xp059\Desktop\HomeWork\MyWork\bin\Debug\net6.0\MyWork.dll
+C:\Users\xp059\Desktop\HomeWork\MyWork\bin\Debug\net6.0\MyWork.pdb
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.csproj.AssemblyReference.cache
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.AssemblyInfoInputs.cache
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.AssemblyInfo.cs
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.csproj.CoreCompileInputs.cache
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.dll
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\refint\MyWork.dll
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.pdb
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\MyWork.genruntimeconfig.cache
+C:\Users\xp059\Desktop\HomeWork\MyWork\obj\Debug\net6.0\ref\MyWork.dll
